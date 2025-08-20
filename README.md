@@ -49,6 +49,11 @@ Content: This module may contain a code that will use Twitter (now X) APIs to an
 # Status: Coming Soon
 Content: This module performs a backtest of the investment strategy against historical data. It is designed to evaluate the strategy's performance and risk profile before live deployment.
 
+# Actual Proof of Work
+Please see the photo below, demonstrating the contributions made to the project. 
+
+<img width="1416" height="607" alt="image" src="https://github.com/user-attachments/assets/e1708d32-146e-4234-993a-a13329883080" />
+
 
 # Disclaimer
 This project and the abovementioned structure do not constitute financial advice. The author of this code, Georgii Khvedelidze, and all affiliates do not provide recommendations through this project. Georgii is not responsible for investment actions taken by viewers, and his project should not be used as a basis for investment trades. 
