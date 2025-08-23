@@ -1,5 +1,5 @@
 # Galpha - Stock Analysis and Portfolio Optimisation 
-“Python-based stock analysis and portfolio optimisation project — overview of objectives, techniques, and structure.” 
+“Python-based stock analysis and portfolio optimisation project — overview of objectives, structure, and techniques used.” 
 
 
 # About this project
@@ -56,7 +56,7 @@ Please see the photo below, demonstrating the contributions made to the project.
 
 
 # Disclaimer
-This project and the abovementioned structure do not constitute financial advice. The author of this code, Georgii Khvedelidze, and all affiliates do not provide recommendations through this project. Georgii is not responsible for investment actions taken by viewers, and his project should not be used as a basis for investment trades. 
+This project and the abovementioned structure do not constitute financial advice. The author of this code, Georgii Khvedelidze, and all affiliates do not provide recommendations through this project. Georgii Khvedelidze is not responsible for investment actions taken by viewers, and his project should not be used as a basis for investment trades. 
 
 
 
