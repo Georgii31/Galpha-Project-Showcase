@@ -1,3 +1,7 @@
+
+![Galpha Project Logo Official](https://github.com/user-attachments/assets/f35b1c34-8986-4dca-8c1f-d5e66fd1ec6f)
+
+
 # Galpha - Stock Analysis and Portfolio Optimisation 
 “Python-based stock analysis and portfolio optimisation project — overview of objectives, structure, and techniques used.” 
 
