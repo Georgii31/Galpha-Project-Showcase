@@ -58,6 +58,7 @@ Please see the photo below, demonstrating the contributions made to the project.
 
 <img width="1416" height="607" alt="image" src="https://github.com/user-attachments/assets/e1708d32-146e-4234-993a-a13329883080" />
 
+The profile image on the screenshot above was used previously. During the process of uploading a more professional photo, I encountered a bug. The issue was reported to the GitHub support team and will hopefully be resolved soon. 
 
 # Disclaimer
 This project and the abovementioned structure do not constitute financial advice. The author of this code, Georgii Khvedelidze, and all affiliates do not provide recommendations through this project. Georgii Khvedelidze is not responsible for investment actions taken by viewers, and his project should not be used as a basis for investment trades. 
