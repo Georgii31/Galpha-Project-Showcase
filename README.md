@@ -29,7 +29,7 @@ The request can be done via email or LinkedIn.
 # Status: Currently Finished (Open to Updates)
 Content: This module uses yfinance (Python library for Yahoo Finance data) to download price and volume data of the US large-cap stocks for the last 5 years, as well as their financial statements for the last 5 years, clean this data, standardise name formatting, check for missing values, convert data into csv files, and conduct statistical analysis of returns and price changes.
 
-# 2. initial screening 
+# 2. Initial screening 
 # Status: Currently Finished (Open to Updates)
 Content: This module performs sector fetching, liquidity screening, market capitalisation filtering, volatility analysis, validation, etc.
 
