@@ -18,7 +18,7 @@ The Galpha project aims to streamline the process of analysing and selecting the
 
 
 
-# Source code available to upon request.
+# Source code available upon request.
 The request can be done via email or LinkedIn. 
 
 
