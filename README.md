@@ -3,7 +3,7 @@
 
 
 # Galpha - Stock Analysis and Portfolio Optimisation 
-“Python-based stock analysis and portfolio optimisation project — overview of objectives, structure, and techniques used.” 
+Python-based stock analysis and portfolio optimisation project — overview of objectives, structure, and techniques used.
 
 
 # About this project
