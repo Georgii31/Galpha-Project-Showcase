@@ -55,6 +55,7 @@ Content: This module performs a backtest of the investment strategy against hist
 
 # Actual Proof of Work
 Please see the photo below, demonstrating the contributions made to the project. 
+<img width="1224" height="391" alt="Github Galpha Proof of Work photo" src="https://github.com/user-attachments/assets/d02d3db3-c91c-4cf1-9116-58e22ccd3513" />
 
 
 # Disclaimer
