@@ -23,7 +23,7 @@ The request can be done via email or LinkedIn.
 
 
 
-# Structure with main folders and description of folders
+# Project Structure 
 
 # 1. Data integration 
 # Status: Currently Finished (Open to Updates)
