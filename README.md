@@ -33,24 +33,24 @@ Content: This module uses yfinance (Python library for Yahoo Finance data) to do
 Content: This module performs sector fetching, liquidity screening, market capitalisation filtering, volatility analysis, validation, etc.
 
 # 3. Fundamental analysis 
-# Status: In Progress
-Content: Fundamental analysis is a crucial section of the project which starts with preprocessing the data by creating a dictionary and ensuring all components of financial statements are properly saved in the system for further analysis and usage. This process is followed by computation and analysis of key ratios, exploration of deep value or contrarian ratios, investigation of earnings quality, performance of peer analysis, creation of stocks ranking, and completion of the quality check. If this idea is found feasible, simple DCF modelling can be implemented. 
+# Status: Currently Finished (Open to Updates)
+Content: Fundamental analysis is a crucial section of the project which starts with preprocessing the data by creating a dictionary and ensuring all components of financial statements are properly saved in the system for further analysis and usage. This process is followed by computation and analysis of key ratios, market sensitivity, investigation of earnings quality, performance of peer analysis, and creation of stocks ranking.
 
 # 4. Portfolio optimisation 
-# Status: Coming Soon
+# Status: Currently Finished (Open to Updates)
 Content: This section is designed to run Monte Carlo simulations, model efficient frontier, calculate risk-adjusted performance metrics, conduct correlation analysis using a heatmap, etc. 
 
 # 5. Technical analysis 
-# Status: Coming Soon
+# Status: Currently Finished (Open to Updates)
 Content: This section will utilise the most prominent technical analysis indicators and techniques to identify momentum, trends, and patterns of stocks. 
 
 # 6. AI-assisted sentiment analysis 
 # Status: Coming Soon 
-Content: This module may contain a code that will use Twitter (now X) APIs to analyse news and posts about stocks to come up with a "good", "neutral", or "bad" sentiment with respect to them.
+Content: This section may contain a code that will use Twitter (now X) APIs to analyse news and posts about stocks to come up with a "good", "neutral", or "bad" sentiment with respect to them.
 
 # 7. Backtesting 
-# Status: Coming Soon
-Content: This module performs a backtest of the investment strategy against historical data. It is designed to evaluate the strategy's performance and risk profile before live deployment.
+# Status: Currently Finished (Open to Updates)
+Content: This section generates standardised reports for each company, incorporating all the necessary information that was collected and generated within the previous sections. It includes technical indicators, crucial components from the financial statements, key fundamental ratios, and earnings quality metrics. 
 
 # Actual Proof of Work
 Please see the photo below, demonstrating the contributions made to the project. 
